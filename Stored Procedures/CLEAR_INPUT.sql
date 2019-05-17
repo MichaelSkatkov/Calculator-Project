@@ -1,0 +1,4 @@
+CREATE PROCEDURE CLEAR_INPUT
+AS
+DELETE Input_X;
+delete Input_Y;
